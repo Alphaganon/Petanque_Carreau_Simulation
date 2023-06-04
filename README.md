@@ -29,8 +29,4 @@ Running
 ```
 python3 main.py
 ```
-should play one of the default base scenarios.
-
-### Making your own scenarios
-
-The examples of the file `scene.py` are quite self explanatory. 
+plays an instance of our Carreau Simulation.
