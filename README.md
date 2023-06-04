@@ -1,3 +1,4 @@
+School project aiming to create a realistic simulation of a Carreau in the sport Petanque, with a physics engine. This project uses Inria's python OpenGL Viewer made by Mickaël LY and Thibaut METIVET. Our physics engine implements rigid body collision between two spheres and between a sphere and a plan with elasticity. 
 
 # PyGLViewer
 
